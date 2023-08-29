@@ -1,1 +1,1 @@
-My first readme
+This is the first directory for git in the zero alx projectx
